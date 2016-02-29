@@ -1,4 +1,5 @@
-# Trump Reactions
-Replaces emojis in Facebook Reactions by Donald Trump pictures.
+# ความรู้สึกของลุงตู่
+เปลี่ยนหน้าความรู้สึกในเฟซบุคเป็นหน้าลุงตู่แทน
+ของคุณ source code ต้นฉบับจาก https://github.com/FGrante/trump-reactions/
 
-![Trump Reactions screenshot](https://s3-eu-west-1.amazonaws.com/fgrante/trump_reaction_screenshot.png)
+![ความรู้สึกของลุงตู่](http://upload.earthchie.com/files/ss.jpg)
